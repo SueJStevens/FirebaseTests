@@ -1,0 +1,5 @@
+bootcamp-coding-project-sjs
+
+https://getbootstrap.com/docs/4.0/content/tables/#hoverable-rows
+
+https://console.firebase.google.com/u/0/project/bootcamp-coding-project-sjs/database/bootcamp-coding-project-sjs/data
